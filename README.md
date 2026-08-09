@@ -1,8 +1,8 @@
 ## Project Timeline
 
-- **October 7, 2024** — Conducted background research and outlined the project scope.  
-- **October 8, 2024** — Gathered the dataset and prepared supporting materials.  
-- **October 9, 2024** — Began coding, explored possible research directions, and refined the project structure based on initial findings.  
+- **October 4, 2024** — Conducted background research and outlined the project scope.  
+- **October 6, 2024** — Gathered the dataset and prepared supporting materials.  
+- **October 8, 2024** — Began coding, explored possible research directions, and refined the project structure based on initial findings.  
 - **October 10, 2024** — Finalized deliverables, completed testing, and marked the project as officially finished.  
 - **GitHub Update:** August 9, 2026  
 
